@@ -1,0 +1,101 @@
+Month,Year,ID,Offence,Area,CourtType,Outcome,Gender,Age,Ethnicity,Casetype,ChargeType
+February 2024,2023,9204,Assault,South Jacob,Crown Court,Sentenced,Female,48,Other,Criminal,postcharge
+July 2025,2023,7534,Drug Offense,Port Rosemary,Crown Court,Community Service,Female,38,White,Criminal,postcharge
+April 2024,2024,2440,Theft,Port Lucy,Magistrates' Court,Guilty,Male,24,White,Criminal,postcharge
+August 2023,2023,9306,Assault,Lake Garry,Crown Court,Community Service,Female,70,Black,Civil,postcharge
+February 2025,2023,1536,Assault,South Stephen,Magistrates' Court,Community Service,Female,26,Mixed,Civil,postcharge
+March 2023,2023,3207,Burglary,Coleshire,Magistrates' Court,Guilty,Male,56,Black,Criminal,postcharge
+April 2025,2023,3325,Assault,Bakerton,Crown Court,Community Service,Male,49,Black,Civil,postcharge
+August 2025,2024,5219,Burglary,Allentown,Crown Court,Community Service,Male,45,Black,Civil,postcharge
+February 2023,2024,1454,Fraud,Beverleyborough,Magistrates' Court,Not Guilty,Male,34,Mixed,Civil,postcharge
+July 2024,2023,5912,Fraud,Griffinmouth,Magistrates' Court,Sentenced,Female,35,Other,Civil,postcharge
+September 2023,2023,2373,Fraud,West Brucestad,Magistrates' Court,Not Guilty,Female,19,White,Civil,postcharge
+January 2024,2024,6262,Drug Offense,New Kevinborough,Magistrates' Court,Fine,Male,67,Mixed,Criminal,postcharge
+May 2025,2025,4013,Theft,Lake Jordanland,Magistrates' Court,Fine,Female,74,Other,Civil,postcharge
+April 2025,2025,1709,Theft,Sharpberg,Crown Court,Not Guilty,Female,40,Black,Criminal,postcharge
+October 2025,2025,7781,Fraud,Bullburgh,Magistrates' Court,Sentenced,Male,68,Mixed,Criminal,postcharge
+July 2023,2023,6373,Theft,South Robertville,Magistrates' Court,Dismissed,Female,29,Other,Criminal,postcharge
+June 2024,2023,7182,Drug Offense,Whitestad,Crown Court,Sentenced,Male,24,Mixed,Civil,postcharge
+September 2024,2025,9446,Assault,Justinview,Crown Court,Sentenced,Male,45,White,Criminal,postcharge
+January 2024,2025,7969,Burglary,Port Michael,Magistrates' Court,Fine,Female,38,Asian,Criminal,postcharge
+January 2025,2024,9954,Burglary,Lake Henry,Magistrates' Court,Guilty,Female,64,Asian,Civil,postcharge
+April 2025,2025,4479,Burglary,Callumstad,Crown Court,Fine,Female,44,Black,Civil,postcharge
+December 2023,2025,2877,Burglary,Port Joshbury,Crown Court,Not Guilty,Female,33,Mixed,Civil,postcharge
+November 2023,2023,4505,Assault,Anneside,Crown Court,Community Service,Male,79,Mixed,Criminal,postcharge
+May 2023,2025,4521,Assault,Smithbury,Magistrates' Court,Fine,Male,74,Asian,Civil,postcharge
+April 2024,2024,8927,Burglary,Abigailfurt,Crown Court,Fine,Female,32,White,Criminal,postcharge
+June 2023,2024,8668,Fraud,Garyburgh,Crown Court,Sentenced,Male,30,Other,Criminal,postcharge
+November 2023,2025,9023,Burglary,North Carlshire,Magistrates' Court,Community Service,Male,36,Black,Civil,postcharge
+November 2025,2025,9683,Assault,Port Shaun,Crown Court,Community Service,Female,55,Mixed,Criminal,postcharge
+August 2023,2025,9319,Burglary,Rahmanbury,Magistrates' Court,Guilty,Male,35,Asian,Civil,postcharge
+May 2025,2024,5166,Drug Offense,Port Rebecca,Magistrates' Court,Fine,Female,60,Other,Civil,postcharge
+February 2023,2024,2962,Fraud,Brucestad,Magistrates' Court,Guilty,Female,47,Other,Civil,postcharge
+December 2025,2025,5900,Burglary,South Claire,Magistrates' Court,Guilty,Female,79,White,Civil,postcharge
+February 2025,2025,3880,Assault,West Kenneth,Magistrates' Court,Fine,Male,53,Mixed,Civil,postcharge
+January 2023,2023,4593,Drug Offense,Robinsonberg,Crown Court,Fine,Male,40,Mixed,Criminal,postcharge
+February 2024,2023,6734,Theft,Bethmouth,Crown Court,Not Guilty,Male,24,Black,Criminal,postcharge
+July 2023,2023,2783,Theft,South Lee,Crown Court,Community Service,Female,37,Other,Criminal,postcharge
+June 2024,2024,2966,Theft,Port Carolyn,Crown Court,Sentenced,Female,61,Mixed,Criminal,postcharge
+April 2024,2024,7324,Fraud,Port Duncan,Crown Court,Fine,Male,46,Asian,Criminal,postcharge
+December 2025,2024,1684,Drug Offense,Whitemouth,Crown Court,Community Service,Male,51,Other,Criminal,postcharge
+February 2023,2024,2566,Burglary,Hillbury,Crown Court,Dismissed,Male,52,Other,Civil,postcharge
+August 2024,2023,9729,Burglary,Begumview,Crown Court,Fine,Female,80,Mixed,Civil,postcharge
+November 2024,2023,3688,Fraud,Johnsonville,Magistrates' Court,Fine,Female,61,Asian,Criminal,postcharge
+July 2024,2023,4846,Assault,East Abdulstad,Magistrates' Court,Sentenced,Female,74,White,Civil,postcharge
+October 2025,2023,9862,Fraud,South Garychester,Crown Court,Fine,Female,24,Asian,Criminal,postcharge
+January 2025,2025,9555,Fraud,New Linda,Crown Court,Sentenced,Female,59,Other,Civil,postcharge
+November 2025,2025,6756,Drug Offense,Lake Carol,Magistrates' Court,Sentenced,Female,64,Black,Civil,postcharge
+May 2025,2024,5931,Burglary,West Scottshire,Magistrates' Court,Sentenced,Male,36,Black,Criminal,postcharge
+March 2024,2023,5115,Theft,Howardstad,Crown Court,Dismissed,Female,35,Black,Civil,postcharge
+July 2025,2024,1834,Assault,Wrightmouth,Magistrates' Court,Sentenced,Female,33,Black,Civil,postcharge
+May 2025,2023,1751,Fraud,Jacksonhaven,Crown Court,Sentenced,Female,80,Other,Criminal,postcharge
+May 2024,2024,9033,Assault,Davidsonfurt,Magistrates' Court,Fine,Female,46,White,Civil,postcharge
+April 2025,2024,8588,Fraud,Lake Marieton,Magistrates' Court,Sentenced,Male,67,White,Civil,postcharge
+May 2023,2023,3926,Theft,West Jeremyside,Magistrates' Court,Not Guilty,Female,63,White,Criminal,postcharge
+October 2024,2024,5717,Drug Offense,Pottsburgh,Magistrates' Court,Fine,Male,34,Black,Civil,postcharge
+February 2025,2024,1992,Theft,Davisport,Crown Court,Community Service,Female,35,Other,Civil,postcharge
+June 2025,2024,9441,Assault,Lake Charlenemouth,Magistrates' Court,Sentenced,Female,38,Asian,Criminal,postcharge
+September 2024,2024,7274,Fraud,Oliverburgh,Magistrates' Court,Community Service,Female,66,Other,Criminal,postcharge
+January 2023,2024,1801,Fraud,North Carolynstad,Magistrates' Court,Dismissed,Female,40,Asian,Criminal,postcharge
+April 2025,2024,9827,Theft,Lake Marianland,Magistrates' Court,Not Guilty,Female,39,Asian,Criminal,postcharge
+October 2025,2024,8281,Fraud,Lake Denisemouth,Crown Court,Sentenced,Female,56,Mixed,Civil,postcharge
+October 2025,2025,2022,Drug Offense,Lake Kimberg,Crown Court,Fine,Male,34,Black,Criminal,postcharge
+April 2025,2023,8033,Burglary,Elliebury,Crown Court,Community Service,Male,39,Black,Criminal,postcharge
+March 2023,2024,5890,Fraud,Martinhaven,Crown Court,Community Service,Male,52,White,Civil,postcharge
+March 2024,2024,2137,Drug Offense,East Donnashire,Magistrates' Court,Fine,Male,39,White,Criminal,postcharge
+April 2023,2025,2106,Assault,Shawtown,Magistrates' Court,Dismissed,Male,43,White,Civil,postcharge
+August 2024,2025,9125,Assault,East Catherineville,Magistrates' Court,Guilty,Female,45,Asian,Criminal,postcharge
+August 2025,2023,2511,Burglary,Port Dennis,Crown Court,Community Service,Male,40,White,Criminal,postcharge
+July 2023,2023,8223,Fraud,New Nicolemouth,Magistrates' Court,Guilty,Female,80,Black,Civil,postcharge
+July 2025,2025,6774,Assault,North Franceshaven,Crown Court,Dismissed,Male,47,Other,Civil,postcharge
+December 2024,2024,7112,Theft,Hillland,Crown Court,Guilty,Male,45,Asian,Civil,postcharge
+May 2025,2025,9689,Burglary,South Philipland,Crown Court,Sentenced,Female,34,Asian,Criminal,postcharge
+September 2023,2025,2549,Assault,New Albertmouth,Crown Court,Dismissed,Male,31,White,Civil,postcharge
+October 2024,2024,3417,Theft,Saundersmouth,Crown Court,Sentenced,Female,26,Other,Criminal,postcharge
+April 2024,2024,3384,Assault,South Paul,Magistrates' Court,Not Guilty,Male,19,Asian,Criminal,postcharge
+August 2025,2023,7405,Theft,Keithmouth,Magistrates' Court,Community Service,Female,57,Other,Civil,postcharge
+July 2023,2025,3283,Fraud,West Ashleighberg,Crown Court,Sentenced,Female,69,White,Criminal,postcharge
+February 2023,2025,6545,Drug Offense,West Kerryview,Magistrates' Court,Community Service,Female,67,White,Civil,postcharge
+June 2024,2023,8088,Assault,Markville,Crown Court,Not Guilty,Female,67,Black,Civil,postcharge
+July 2023,2025,9311,Theft,Kimton,Magistrates' Court,Dismissed,Male,45,Mixed,Civil,postcharge
+October 2024,2023,1134,Burglary,Millermouth,Crown Court,Community Service,Male,48,White,Criminal,postcharge
+May 2023,2023,7637,Fraud,Lake James,Crown Court,Community Service,Male,40,Mixed,Civil,postcharge
+August 2024,2025,2136,Drug Offense,Atkinsmouth,Magistrates' Court,Not Guilty,Male,37,Other,Civil,postcharge
+November 2024,2025,9447,Assault,South Derek,Magistrates' Court,Fine,Female,19,Black,Civil,postcharge
+February 2024,2024,1468,Burglary,North Edwardberg,Crown Court,Not Guilty,Female,70,Other,Civil,postcharge
+June 2023,2023,8697,Drug Offense,Kieranmouth,Crown Court,Dismissed,Male,45,Mixed,Civil,postcharge
+June 2024,2024,6457,Fraud,North Rosie,Crown Court,Guilty,Male,35,Mixed,Criminal,postcharge
+January 2024,2025,4385,Theft,South Suzanneside,Crown Court,Sentenced,Male,67,White,Civil,postcharge
+October 2024,2025,5658,Drug Offense,Rogerstad,Magistrates' Court,Fine,Female,64,Mixed,Criminal,postcharge
+July 2025,2023,6751,Theft,South Alexandratown,Magistrates' Court,Community Service,Female,61,Mixed,Criminal,postcharge
+September 2024,2024,2598,Assault,Peterton,Crown Court,Community Service,Male,32,Other,Civil,postcharge
+November 2025,2025,3572,Fraud,Lake Tobymouth,Magistrates' Court,Not Guilty,Male,33,Other,Criminal,postcharge
+November 2024,2024,7648,Theft,Lloydland,Magistrates' Court,Guilty,Female,56,Mixed,Criminal,postcharge
+August 2025,2025,6186,Drug Offense,South Karen,Magistrates' Court,Guilty,Female,36,Asian,Civil,postcharge
+September 2023,2025,9219,Fraud,South Dennisfurt,Magistrates' Court,Guilty,Male,73,Asian,Criminal,postcharge
+May 2025,2023,9111,Assault,Carolestad,Crown Court,Fine,Male,79,White,Civil,postcharge
+December 2024,2023,5541,Theft,Port Alice,Magistrates' Court,Sentenced,Male,39,Asian,Criminal,postcharge
+October 2024,2024,9470,Drug Offense,Yvonneville,Magistrates' Court,Guilty,Female,26,Mixed,Criminal,postcharge
+October 2025,2025,8944,Drug Offense,West Lauren,Magistrates' Court,Sentenced,Female,40,Asian,Criminal,postcharge
+September 2023,2024,7869,Assault,East Lynneland,Magistrates' Court,Dismissed,Female,24,Black,Criminal,postcharge
+April 2025,2025,4368,Drug Offense,Port Hugh,Crown Court,Dismissed,Male,38,Asian,Civil,postcharge

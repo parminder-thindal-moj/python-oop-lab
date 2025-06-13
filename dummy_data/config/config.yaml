@@ -1,0 +1,13 @@
+paths:
+  raw_data_dir: dummy_data/raw_data
+  archive_dir: dummy_data/7z
+  quarentine_dir: dummy_data/quarantines
+
+s3:
+  bucket: mojap-land-dev
+  prefix: cps/
+
+archive:
+  password: null  # if needed, set to a string like "secret123"
+  format: 7z
+  compression_level: 9  # 0-9, where 9 is the highest compression

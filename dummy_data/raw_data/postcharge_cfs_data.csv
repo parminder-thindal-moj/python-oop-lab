@@ -1,0 +1,101 @@
+Month,Year,ID,Offence,Area,CourtType,Outcome,Gender,Age,Ethnicity,Casetype,ChargeType
+February 2024,2023,6604,Burglary,Metcalfeberg,Magistrates' Court,Sentenced,Male,76,Other,Immigration,postcharge_cfs
+January 2024,2023,6254,Burglary,Port Jaynetown,Crown Court,Guilty,Male,29,Black,Immigration,postcharge_cfs
+October 2025,2023,7150,Burglary,Palmerberg,Magistrates' Court,Community Service,Female,26,Asian,Family,postcharge_cfs
+April 2024,2023,8483,Drug Offense,East Connor,Magistrates' Court,Sentenced,Female,61,Mixed,Family,postcharge_cfs
+December 2024,2023,6833,Burglary,Rebeccahaven,Magistrates' Court,Not Guilty,Male,24,Black,Housing,postcharge_cfs
+July 2025,2023,8556,Drug Offense,Whittakershire,Magistrates' Court,Guilty,Female,50,Other,Housing,postcharge_cfs
+April 2023,2023,3707,Burglary,Jakefurt,Magistrates' Court,Community Service,Male,45,Other,Immigration,postcharge_cfs
+February 2025,2025,3945,Theft,Lake Jean,Crown Court,Sentenced,Male,77,Black,Family,postcharge_cfs
+May 2025,2025,5092,Drug Offense,Port Vanessa,Magistrates' Court,Fine,Female,62,Mixed,Immigration,postcharge_cfs
+August 2024,2023,1445,Assault,Sophieburgh,Magistrates' Court,Sentenced,Male,35,Black,Family,postcharge_cfs
+March 2025,2023,2633,Drug Offense,Port Cliffordport,Magistrates' Court,Not Guilty,Male,55,Asian,Immigration,postcharge_cfs
+February 2025,2023,5679,Fraud,Timothyville,Magistrates' Court,Sentenced,Female,62,Other,Housing,postcharge_cfs
+August 2023,2024,1119,Assault,New Sara,Crown Court,Community Service,Female,39,Black,Housing,postcharge_cfs
+September 2024,2023,6206,Burglary,New Rosemary,Crown Court,Community Service,Male,24,Mixed,Immigration,postcharge_cfs
+February 2025,2023,4176,Burglary,Sharphaven,Crown Court,Fine,Female,77,White,Immigration,postcharge_cfs
+April 2023,2023,8064,Theft,New Connor,Magistrates' Court,Dismissed,Male,37,White,Immigration,postcharge_cfs
+September 2024,2024,6479,Drug Offense,Port Hannah,Magistrates' Court,Fine,Male,76,White,Family,postcharge_cfs
+January 2024,2025,3389,Assault,Wendyton,Magistrates' Court,Guilty,Female,28,Asian,Immigration,postcharge_cfs
+December 2023,2024,9516,Assault,South Marcstad,Crown Court,Community Service,Male,73,Asian,Immigration,postcharge_cfs
+November 2023,2023,4503,Fraud,Port Cliveland,Crown Court,Dismissed,Female,39,Black,Family,postcharge_cfs
+April 2025,2025,7889,Fraud,New Sarahside,Crown Court,Not Guilty,Female,47,White,Housing,postcharge_cfs
+May 2025,2025,7947,Fraud,Francishaven,Crown Court,Guilty,Male,27,Asian,Housing,postcharge_cfs
+January 2025,2024,3816,Burglary,Jenkinsland,Crown Court,Sentenced,Male,70,White,Family,postcharge_cfs
+September 2023,2025,5173,Theft,New Hughshire,Magistrates' Court,Not Guilty,Female,48,Other,Family,postcharge_cfs
+August 2025,2025,9787,Drug Offense,South Jill,Crown Court,Guilty,Female,71,White,Immigration,postcharge_cfs
+January 2024,2023,2224,Drug Offense,Dannyshire,Magistrates' Court,Sentenced,Male,77,Other,Immigration,postcharge_cfs
+July 2024,2025,1273,Assault,Wallismouth,Crown Court,Guilty,Female,47,White,Housing,postcharge_cfs
+October 2024,2024,6476,Assault,North Zoe,Magistrates' Court,Community Service,Male,50,Mixed,Family,postcharge_cfs
+February 2023,2024,4542,Burglary,East Aliceville,Crown Court,Sentenced,Female,68,Other,Immigration,postcharge_cfs
+June 2025,2024,3438,Assault,Aliport,Magistrates' Court,Sentenced,Male,79,Other,Family,postcharge_cfs
+February 2025,2024,6657,Assault,New Keithfurt,Magistrates' Court,Not Guilty,Female,61,Mixed,Housing,postcharge_cfs
+November 2023,2024,1463,Assault,South Adrian,Magistrates' Court,Not Guilty,Male,40,White,Immigration,postcharge_cfs
+March 2023,2025,9242,Burglary,East Joel,Magistrates' Court,Community Service,Female,49,Black,Family,postcharge_cfs
+May 2023,2025,3309,Fraud,East Donaldmouth,Magistrates' Court,Community Service,Male,24,Black,Family,postcharge_cfs
+December 2023,2023,4568,Drug Offense,Gordonmouth,Crown Court,Guilty,Male,69,Mixed,Immigration,postcharge_cfs
+July 2023,2024,6850,Assault,Daviesburgh,Crown Court,Guilty,Male,24,Asian,Housing,postcharge_cfs
+November 2025,2023,1532,Assault,South Jeanhaven,Crown Court,Sentenced,Female,65,White,Housing,postcharge_cfs
+August 2024,2025,4742,Burglary,West Kayleigh,Magistrates' Court,Sentenced,Male,29,Mixed,Family,postcharge_cfs
+May 2024,2023,4129,Theft,North Jeffreyshire,Magistrates' Court,Fine,Female,76,White,Housing,postcharge_cfs
+October 2024,2024,1974,Fraud,Traceychester,Crown Court,Not Guilty,Male,23,Black,Immigration,postcharge_cfs
+March 2024,2025,4388,Drug Offense,Lake Ronald,Crown Court,Guilty,Male,26,Mixed,Immigration,postcharge_cfs
+February 2023,2023,4672,Burglary,Port Mathew,Crown Court,Community Service,Male,38,White,Immigration,postcharge_cfs
+February 2024,2024,5625,Burglary,Lake Lynda,Magistrates' Court,Community Service,Male,62,Mixed,Family,postcharge_cfs
+December 2023,2023,8735,Theft,Singhbury,Crown Court,Community Service,Female,58,White,Immigration,postcharge_cfs
+August 2024,2025,9297,Fraud,Collinsfort,Crown Court,Dismissed,Female,49,Asian,Immigration,postcharge_cfs
+February 2023,2025,6725,Drug Offense,Alibury,Magistrates' Court,Sentenced,Female,54,Other,Immigration,postcharge_cfs
+August 2023,2023,5622,Theft,West Ashleyton,Magistrates' Court,Fine,Male,31,Asian,Immigration,postcharge_cfs
+August 2025,2024,3274,Assault,Andersonport,Magistrates' Court,Sentenced,Female,31,Asian,Immigration,postcharge_cfs
+November 2024,2023,3452,Drug Offense,East Frederick,Magistrates' Court,Fine,Male,63,Other,Family,postcharge_cfs
+June 2025,2025,3051,Fraud,New Kimberleyville,Crown Court,Fine,Female,33,Mixed,Family,postcharge_cfs
+January 2024,2025,4861,Drug Offense,Brownbury,Magistrates' Court,Sentenced,Male,30,Asian,Immigration,postcharge_cfs
+October 2023,2023,5053,Drug Offense,Port Jamieland,Crown Court,Guilty,Female,27,Black,Immigration,postcharge_cfs
+November 2025,2023,9863,Burglary,Lake Helenfort,Magistrates' Court,Guilty,Male,76,Other,Immigration,postcharge_cfs
+July 2025,2023,9380,Theft,New Bernard,Crown Court,Community Service,Female,44,Other,Immigration,postcharge_cfs
+April 2024,2025,8728,Burglary,Lake Daniel,Magistrates' Court,Fine,Male,47,Other,Family,postcharge_cfs
+May 2024,2025,8844,Fraud,Port Howardfort,Crown Court,Guilty,Male,43,Mixed,Family,postcharge_cfs
+November 2023,2023,5996,Theft,North Tony,Crown Court,Community Service,Female,36,Asian,Immigration,postcharge_cfs
+September 2024,2023,1742,Drug Offense,New Rita,Magistrates' Court,Sentenced,Female,42,White,Immigration,postcharge_cfs
+January 2024,2025,5851,Assault,Murphyborough,Crown Court,Community Service,Female,79,White,Immigration,postcharge_cfs
+July 2024,2024,7343,Drug Offense,Khanfort,Crown Court,Community Service,Female,30,Other,Family,postcharge_cfs
+March 2023,2024,2418,Fraud,Malcolmville,Magistrates' Court,Sentenced,Male,59,Mixed,Family,postcharge_cfs
+August 2024,2025,6998,Theft,Fletcherbury,Crown Court,Guilty,Female,71,Asian,Housing,postcharge_cfs
+November 2024,2024,2753,Assault,North Dorothy,Magistrates' Court,Not Guilty,Female,24,Other,Immigration,postcharge_cfs
+June 2024,2023,3212,Theft,Lake Dominicton,Magistrates' Court,Community Service,Female,43,Asian,Immigration,postcharge_cfs
+October 2024,2024,6733,Fraud,South Jamiemouth,Crown Court,Sentenced,Female,36,Asian,Family,postcharge_cfs
+April 2024,2023,2496,Fraud,North James,Magistrates' Court,Guilty,Female,67,Asian,Housing,postcharge_cfs
+September 2024,2025,9459,Assault,Burgesshaven,Crown Court,Dismissed,Female,45,Other,Family,postcharge_cfs
+October 2023,2025,8786,Theft,Robertsberg,Crown Court,Not Guilty,Female,24,Black,Immigration,postcharge_cfs
+January 2023,2024,7228,Drug Offense,South Hollyshire,Magistrates' Court,Sentenced,Female,46,Asian,Immigration,postcharge_cfs
+February 2023,2025,2524,Fraud,Port Shannon,Crown Court,Sentenced,Female,79,Other,Family,postcharge_cfs
+April 2025,2024,4359,Drug Offense,Lake Donna,Magistrates' Court,Fine,Female,37,Mixed,Family,postcharge_cfs
+March 2023,2023,8513,Drug Offense,Ruthside,Crown Court,Fine,Male,41,Black,Family,postcharge_cfs
+February 2023,2024,4956,Burglary,Wongland,Crown Court,Guilty,Female,25,White,Family,postcharge_cfs
+December 2025,2025,6581,Assault,New Gavinville,Magistrates' Court,Community Service,Male,51,Other,Immigration,postcharge_cfs
+March 2024,2025,7971,Theft,Port Alison,Crown Court,Community Service,Female,76,White,Housing,postcharge_cfs
+November 2023,2024,3984,Fraud,Gavinchester,Crown Court,Not Guilty,Male,30,Black,Housing,postcharge_cfs
+December 2025,2023,1944,Fraud,Lake Karenborough,Magistrates' Court,Sentenced,Male,62,White,Family,postcharge_cfs
+December 2024,2024,2916,Burglary,West Georgina,Magistrates' Court,Guilty,Male,65,Mixed,Immigration,postcharge_cfs
+July 2025,2025,9395,Burglary,Nicolechester,Magistrates' Court,Guilty,Male,53,Asian,Immigration,postcharge_cfs
+February 2023,2025,4097,Assault,North Diana,Crown Court,Sentenced,Female,51,Asian,Family,postcharge_cfs
+May 2023,2024,8289,Assault,South Waynechester,Crown Court,Community Service,Male,76,Mixed,Family,postcharge_cfs
+November 2023,2024,2852,Theft,North Joannabury,Magistrates' Court,Sentenced,Female,56,Black,Immigration,postcharge_cfs
+October 2024,2024,6402,Fraud,Lake Robertton,Crown Court,Dismissed,Male,31,White,Family,postcharge_cfs
+March 2024,2025,6440,Assault,Birdchester,Crown Court,Not Guilty,Female,32,Other,Housing,postcharge_cfs
+March 2024,2024,6127,Fraud,Lake Donaldville,Crown Court,Guilty,Female,26,Black,Housing,postcharge_cfs
+February 2024,2025,3581,Fraud,Lake Sally,Crown Court,Fine,Female,47,Other,Housing,postcharge_cfs
+April 2024,2024,1009,Theft,Lake Alanstad,Magistrates' Court,Dismissed,Female,69,Other,Immigration,postcharge_cfs
+July 2023,2023,9191,Fraud,Annetown,Magistrates' Court,Fine,Female,65,Mixed,Immigration,postcharge_cfs
+January 2023,2024,2708,Drug Offense,East Kim,Crown Court,Not Guilty,Female,44,Other,Housing,postcharge_cfs
+January 2023,2024,3059,Assault,South Scott,Crown Court,Fine,Male,76,Other,Immigration,postcharge_cfs
+April 2024,2025,7534,Theft,Hawkinsfort,Magistrates' Court,Not Guilty,Female,33,Other,Immigration,postcharge_cfs
+February 2024,2024,1569,Drug Offense,East Melanie,Crown Court,Not Guilty,Male,22,White,Immigration,postcharge_cfs
+April 2023,2025,1023,Drug Offense,Port Rosie,Crown Court,Not Guilty,Female,66,Mixed,Housing,postcharge_cfs
+April 2025,2023,8746,Burglary,Shaneshire,Crown Court,Dismissed,Female,72,Mixed,Housing,postcharge_cfs
+April 2023,2023,4253,Assault,Jonesville,Crown Court,Sentenced,Male,52,Asian,Immigration,postcharge_cfs
+October 2025,2023,5685,Burglary,Baxtermouth,Magistrates' Court,Dismissed,Female,76,Mixed,Housing,postcharge_cfs
+February 2023,2025,2583,Burglary,Rogerton,Magistrates' Court,Fine,Female,64,White,Housing,postcharge_cfs
+November 2025,2023,3353,Theft,Port Louis,Magistrates' Court,Guilty,Female,72,Asian,Housing,postcharge_cfs
+September 2023,2025,4855,Theft,North Iain,Magistrates' Court,Sentenced,Male,69,Other,Housing,postcharge_cfs
+April 2023,2023,9708,Fraud,West Jaybury,Magistrates' Court,Dismissed,Female,25,Asian,Family,postcharge_cfs

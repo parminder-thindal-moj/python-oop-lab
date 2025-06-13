@@ -1,0 +1,101 @@
+Month,Year,ID,Offence,Area,CourtType,Outcome,Gender,Age,Ethnicity,Casetype,ChargeType
+February 2024,2023,8109,Theft,Doddberg,Crown Court,Dismissed,Female,65,Other,Environmental,pre_charge
+February 2025,2025,1605,Theft,Mauriceshire,Crown Court,Not Guilty,Female,36,Other,Environmental,pre_charge
+December 2024,2024,6100,Fraud,West Dylan,Crown Court,Community Service,Female,52,Black,Traffic,pre_charge
+April 2024,2024,4055,Theft,New Frederickbury,Crown Court,Community Service,Male,72,Black,Health and Safety,pre_charge
+July 2024,2024,7428,Fraud,Barnesshire,Magistrates' Court,Fine,Male,58,White,Traffic,pre_charge
+June 2024,2023,8100,Assault,Lake Rosie,Crown Court,Dismissed,Male,63,White,Health and Safety,pre_charge
+April 2024,2024,1823,Assault,Dianaland,Crown Court,Guilty,Female,68,Black,Environmental,pre_charge
+March 2025,2025,1556,Burglary,Leonhaven,Crown Court,Community Service,Male,40,Other,Environmental,pre_charge
+April 2024,2025,4889,Assault,Graceville,Magistrates' Court,Fine,Male,64,Other,Environmental,pre_charge
+May 2023,2024,1550,Fraud,Sullivanfurt,Crown Court,Guilty,Female,34,White,Traffic,pre_charge
+June 2024,2023,9172,Fraud,South Justin,Magistrates' Court,Guilty,Male,56,Mixed,Traffic,pre_charge
+January 2023,2024,8237,Drug Offense,Bradleyton,Magistrates' Court,Sentenced,Male,73,Mixed,Traffic,pre_charge
+December 2023,2024,9289,Theft,Graemechester,Crown Court,Not Guilty,Male,24,White,Public Order,pre_charge
+October 2023,2024,3466,Theft,Port Eric,Magistrates' Court,Not Guilty,Female,18,Other,Public Order,pre_charge
+January 2025,2025,5410,Assault,Harrietside,Magistrates' Court,Fine,Female,77,Asian,Environmental,pre_charge
+September 2023,2024,6497,Fraud,East Joanna,Crown Court,Community Service,Male,59,White,Environmental,pre_charge
+May 2024,2025,3614,Fraud,Pageshire,Crown Court,Fine,Male,45,Mixed,Public Order,pre_charge
+February 2024,2025,6318,Assault,Taylorside,Magistrates' Court,Not Guilty,Female,27,Mixed,Public Order,pre_charge
+June 2023,2023,4156,Theft,West Elainemouth,Magistrates' Court,Sentenced,Male,70,Other,Traffic,pre_charge
+July 2023,2024,9288,Theft,Kimhaven,Magistrates' Court,Community Service,Female,40,Black,Health and Safety,pre_charge
+July 2023,2025,7905,Fraud,Sophieton,Crown Court,Fine,Female,66,Black,Traffic,pre_charge
+February 2025,2025,1111,Fraud,North Stanleytown,Magistrates' Court,Community Service,Female,69,Other,Public Order,pre_charge
+September 2025,2024,4135,Fraud,Brettville,Magistrates' Court,Guilty,Male,54,Asian,Health and Safety,pre_charge
+September 2024,2024,5768,Theft,Edwardsmouth,Crown Court,Fine,Male,48,Asian,Health and Safety,pre_charge
+May 2023,2025,4606,Drug Offense,Melissastad,Crown Court,Not Guilty,Male,70,Black,Health and Safety,pre_charge
+March 2023,2023,2971,Burglary,West Beth,Magistrates' Court,Fine,Female,40,Mixed,Public Order,pre_charge
+October 2025,2024,1352,Assault,West Joshton,Crown Court,Community Service,Female,56,Asian,Health and Safety,pre_charge
+March 2024,2025,7959,Assault,West Melanie,Magistrates' Court,Sentenced,Male,18,Asian,Environmental,pre_charge
+May 2023,2024,6395,Drug Offense,Cameronside,Crown Court,Fine,Male,38,Asian,Health and Safety,pre_charge
+January 2024,2025,3413,Drug Offense,Hiltonstad,Crown Court,Not Guilty,Female,24,White,Traffic,pre_charge
+December 2025,2023,1132,Theft,Lake Carolbury,Crown Court,Not Guilty,Female,31,Asian,Health and Safety,pre_charge
+October 2023,2024,3189,Burglary,New Elaineport,Crown Court,Sentenced,Female,22,Other,Public Order,pre_charge
+January 2025,2025,7290,Assault,Port Rachel,Crown Court,Community Service,Male,61,Mixed,Environmental,pre_charge
+June 2025,2024,6658,Assault,Dorothyland,Crown Court,Fine,Male,79,Other,Health and Safety,pre_charge
+June 2024,2023,1259,Fraud,Lake Sylvia,Magistrates' Court,Sentenced,Male,76,Other,Public Order,pre_charge
+July 2025,2024,7115,Theft,West Julie,Magistrates' Court,Guilty,Male,73,Asian,Public Order,pre_charge
+March 2023,2024,7943,Burglary,Natashaville,Crown Court,Guilty,Female,73,Other,Health and Safety,pre_charge
+January 2023,2023,8595,Burglary,East Claireport,Crown Court,Community Service,Male,72,Other,Health and Safety,pre_charge
+December 2024,2025,5495,Drug Offense,Port Leahmouth,Crown Court,Sentenced,Male,21,Black,Traffic,pre_charge
+January 2023,2024,6005,Burglary,South Lynne,Magistrates' Court,Sentenced,Female,55,White,Public Order,pre_charge
+June 2024,2024,7720,Assault,Pearsonside,Magistrates' Court,Sentenced,Female,23,Asian,Public Order,pre_charge
+March 2023,2025,7310,Fraud,East Rachel,Crown Court,Fine,Female,76,Other,Health and Safety,pre_charge
+May 2025,2024,2201,Burglary,Howardchester,Magistrates' Court,Community Service,Female,20,Other,Environmental,pre_charge
+May 2024,2025,3743,Assault,New Juliaside,Magistrates' Court,Sentenced,Female,61,Mixed,Health and Safety,pre_charge
+June 2024,2024,4792,Drug Offense,South Jordan,Magistrates' Court,Not Guilty,Female,40,Other,Environmental,pre_charge
+August 2023,2024,8335,Assault,Cliveberg,Magistrates' Court,Fine,Female,47,Asian,Health and Safety,pre_charge
+October 2025,2025,8834,Assault,Whiteheadstad,Crown Court,Not Guilty,Male,39,Black,Traffic,pre_charge
+March 2023,2023,9896,Assault,Reidshire,Crown Court,Dismissed,Female,36,Black,Public Order,pre_charge
+November 2024,2023,9319,Fraud,Victoriaberg,Magistrates' Court,Dismissed,Male,22,Black,Public Order,pre_charge
+January 2024,2023,8465,Drug Offense,West Dorothy,Crown Court,Dismissed,Male,31,Mixed,Environmental,pre_charge
+November 2025,2024,7539,Fraud,East Jill,Crown Court,Guilty,Female,22,Black,Environmental,pre_charge
+November 2025,2023,4057,Fraud,Lake Katefort,Magistrates' Court,Sentenced,Female,50,Other,Health and Safety,pre_charge
+February 2023,2024,9280,Fraud,Davidton,Magistrates' Court,Fine,Female,70,Other,Traffic,pre_charge
+February 2025,2025,1930,Drug Offense,South Mollyburgh,Magistrates' Court,Community Service,Male,54,White,Public Order,pre_charge
+August 2023,2023,6335,Drug Offense,Port Elliemouth,Crown Court,Fine,Male,75,Asian,Environmental,pre_charge
+November 2024,2023,6598,Burglary,Evansshire,Magistrates' Court,Fine,Male,63,White,Public Order,pre_charge
+July 2024,2023,2002,Theft,Lake Denis,Crown Court,Not Guilty,Male,78,Asian,Health and Safety,pre_charge
+November 2023,2025,4654,Assault,South Katie,Crown Court,Fine,Male,49,Asian,Traffic,pre_charge
+August 2025,2024,9533,Burglary,North Julian,Magistrates' Court,Community Service,Female,41,White,Environmental,pre_charge
+November 2025,2024,6839,Drug Offense,East Nicholas,Magistrates' Court,Not Guilty,Male,60,White,Health and Safety,pre_charge
+July 2023,2025,7451,Drug Offense,Bensonside,Magistrates' Court,Guilty,Female,21,Black,Environmental,pre_charge
+September 2025,2024,5516,Assault,Shawbury,Magistrates' Court,Dismissed,Female,20,Mixed,Public Order,pre_charge
+March 2025,2025,8479,Assault,Lake Dominicville,Magistrates' Court,Fine,Male,39,Mixed,Public Order,pre_charge
+July 2025,2024,5547,Drug Offense,Heatherside,Magistrates' Court,Not Guilty,Female,32,White,Traffic,pre_charge
+January 2024,2023,8583,Fraud,Buckleybury,Crown Court,Dismissed,Male,25,Asian,Traffic,pre_charge
+December 2025,2024,8222,Assault,East Terry,Magistrates' Court,Dismissed,Female,48,Mixed,Health and Safety,pre_charge
+May 2023,2023,5836,Fraud,Port Maxberg,Crown Court,Dismissed,Female,27,White,Traffic,pre_charge
+July 2025,2024,2284,Fraud,Lake Nicole,Crown Court,Guilty,Male,53,Black,Public Order,pre_charge
+November 2023,2025,4141,Burglary,Ritamouth,Crown Court,Fine,Male,72,White,Traffic,pre_charge
+March 2024,2023,3839,Burglary,Port Emma,Crown Court,Dismissed,Male,34,Mixed,Health and Safety,pre_charge
+April 2024,2023,3727,Assault,Evansborough,Magistrates' Court,Community Service,Female,43,White,Environmental,pre_charge
+April 2025,2024,3413,Fraud,South Michaelberg,Crown Court,Not Guilty,Female,60,Asian,Environmental,pre_charge
+February 2023,2023,9820,Fraud,North Rosiefort,Crown Court,Guilty,Female,25,White,Traffic,pre_charge
+May 2024,2024,1342,Burglary,Justinstad,Crown Court,Dismissed,Female,29,Asian,Traffic,pre_charge
+November 2023,2024,1859,Drug Offense,Cherylville,Crown Court,Dismissed,Male,33,Other,Health and Safety,pre_charge
+March 2025,2023,7169,Fraud,Williamsbury,Magistrates' Court,Dismissed,Male,64,Other,Public Order,pre_charge
+December 2025,2024,7483,Burglary,Henrymouth,Magistrates' Court,Community Service,Male,22,Mixed,Environmental,pre_charge
+December 2024,2023,9069,Theft,West Kennethport,Crown Court,Dismissed,Female,70,Mixed,Public Order,pre_charge
+December 2024,2025,6651,Assault,Lake Meganhaven,Magistrates' Court,Dismissed,Male,62,Asian,Traffic,pre_charge
+March 2025,2025,5936,Theft,West Kerry,Crown Court,Guilty,Female,21,White,Public Order,pre_charge
+April 2024,2023,5134,Fraud,South Reece,Crown Court,Dismissed,Male,49,White,Environmental,pre_charge
+May 2023,2025,5165,Burglary,Batesbury,Crown Court,Guilty,Female,43,Black,Public Order,pre_charge
+October 2024,2024,2826,Theft,Lake Zoeborough,Crown Court,Guilty,Female,78,Mixed,Traffic,pre_charge
+February 2025,2023,4019,Theft,Port Charlotte,Magistrates' Court,Not Guilty,Female,33,Black,Public Order,pre_charge
+January 2024,2023,4320,Fraud,Hollieview,Crown Court,Guilty,Male,29,White,Traffic,pre_charge
+May 2025,2023,5391,Fraud,West Tobyborough,Magistrates' Court,Dismissed,Male,27,Black,Health and Safety,pre_charge
+May 2025,2025,8161,Fraud,Annaport,Crown Court,Fine,Male,42,Mixed,Health and Safety,pre_charge
+March 2025,2024,3453,Assault,Barrettberg,Magistrates' Court,Dismissed,Female,71,Other,Health and Safety,pre_charge
+November 2025,2024,3347,Theft,Nicholsonville,Crown Court,Guilty,Female,77,Black,Health and Safety,pre_charge
+August 2023,2023,3639,Drug Offense,Annport,Magistrates' Court,Guilty,Male,70,Asian,Public Order,pre_charge
+January 2024,2025,2162,Theft,Joyceland,Crown Court,Not Guilty,Male,52,Mixed,Health and Safety,pre_charge
+February 2024,2023,2108,Fraud,Callumberg,Crown Court,Dismissed,Female,53,Black,Health and Safety,pre_charge
+May 2025,2023,8291,Drug Offense,New Jay,Crown Court,Guilty,Female,40,Asian,Health and Safety,pre_charge
+February 2024,2024,7002,Theft,East Anna,Crown Court,Sentenced,Female,45,White,Health and Safety,pre_charge
+January 2025,2024,4381,Assault,East Tinabury,Magistrates' Court,Fine,Male,48,Other,Public Order,pre_charge
+March 2023,2023,1498,Theft,Lake Suzanne,Crown Court,Guilty,Male,66,Asian,Environmental,pre_charge
+December 2025,2025,8666,Drug Offense,West Harrietburgh,Crown Court,Community Service,Male,42,Mixed,Public Order,pre_charge
+January 2025,2024,3120,Theft,Dunntown,Crown Court,Community Service,Female,45,Other,Health and Safety,pre_charge
+December 2023,2025,5958,Burglary,Gregoryburgh,Crown Court,Guilty,Female,23,White,Health and Safety,pre_charge
+June 2025,2024,6091,Theft,West Juliafort,Crown Court,Guilty,Male,34,Asian,Health and Safety,pre_charge
